@@ -1,6 +1,6 @@
 ### HI
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Seungbin Github&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Seungbin_Github&fontSize=90" />
 
 <div align="center">
 	<h3>📚 Tech Stack 📚</h3>
