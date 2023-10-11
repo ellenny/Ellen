@@ -39,6 +39,8 @@
 	<a href="[https://www.notion.so/cf145a42cf59470e94bfd23443c549a6?pvs=4]">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a>
+	<a href="r0s1b672@gmail.com">
+		<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" 
 	<br>
 </div>
 <div align=center>
