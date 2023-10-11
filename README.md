@@ -38,3 +38,8 @@
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a>
 	<br>
+</div>
+<div align=center>
+	<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellenny&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=ellenny&show_icons=true">
