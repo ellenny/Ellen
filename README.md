@@ -24,6 +24,8 @@
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+	<br>
+	<img src="https://img.shields.io/badge/Qgis-589632?style=flat&logo=Qgis&logoColor=white" />
 </div>
 <br>
 <div align=center>
