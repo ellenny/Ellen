@@ -15,6 +15,10 @@
 	<img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=Numpy&logoColor=white"/>
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 	<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/>
+	<br>
+	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+	<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white" />
 </div>
 <br>
 <div align=center>
@@ -22,10 +26,10 @@
  </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
-	<br>
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
-	<br>
 	<img src="https://img.shields.io/badge/Qgis-589632?style=flat&logo=Qgis&logoColor=white" />
+	<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" />
+	
 </div>
 <br>
 <div align=center>
